@@ -1,0 +1,56 @@
+.Form {
+  position: relative;
+
+  display: inline-flex;
+  align-items: flex-end;
+  margin-bottom: 30px;
+}
+
+.Form-control {
+  display: flex;
+  flex-direction: column;
+}
+
+.Form-control__text {
+  width: 300px;
+  padding: 10px;
+
+  font: inherit;
+
+  color: inherit;
+  box-shadow: none;
+  border: 1px solid black;
+  border-radius: 5px;
+
+  resize: none;
+
+  overflow-wrap: break-word;
+}
+
+.Form-control__button-add {
+  position: absolute;
+  right: 0;
+  bottom: -50px;
+}
+
+.Form__button-go-back {
+  position: absolute;
+  top: 10px;
+  right: -20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 40px;
+  height: 40px;
+
+  font-size: 30px;
+
+  color: red;
+  background-color: #ffffff;
+  border: 1px solid black;
+  border-radius: 50%;
+  text-decoration: none;
+
+  user-select: none;
+}

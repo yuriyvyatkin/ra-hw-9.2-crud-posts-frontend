@@ -1,0 +1,11 @@
+.Home__button-create {
+  align-self: flex-end;
+}
+
+.Home__notes-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}

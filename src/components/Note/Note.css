@@ -1,0 +1,30 @@
+.Note:not(:first-child) {
+  margin-top: 50px;
+}
+
+.Note__elapsed-time {
+  font-size: 14px;
+}
+
+.Note-body {
+  position: relative;
+
+  width: 300px;
+
+  background-color: #ffffff;
+  border: 1px solid black;
+}
+
+.Note a {
+  display: flex;
+  flex-grow: 1;
+  padding: 20px;
+
+  overflow-wrap: anywhere;
+}
+
+.Note-body__text {
+  padding: 20px;
+
+  user-select: none;
+}

@@ -1,0 +1,9 @@
+.Note-controls {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.Note-controls__button-delete {
+  margin-left: 10px;
+}
