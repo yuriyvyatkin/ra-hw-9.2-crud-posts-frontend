@@ -6,7 +6,7 @@ import HomePage from './components/Pages/HomePage/HomePage';
 import CreateNotePage from './components/Pages/CreateNotePage/CreateNotePage';
 import ViewNotePage from './components/Pages/ViewNotePage/ViewNotePage';
 import withParams from './hocs/withParams';
-const { get, post, del } = initFetch('https://crud-posts-backend-2021.herokuapp.com/');
+const { get, post, del } = initFetch(process.env.REACT_APP_CURRENT_URL);
 const ViewNotePageWithParams = withParams(ViewNotePage);
 
 class App extends React.Component {
