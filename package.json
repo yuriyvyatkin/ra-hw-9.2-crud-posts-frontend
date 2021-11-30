@@ -2,7 +2,7 @@
   "name": "ra-hw-9.2-crud-posts-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yuriyvyatkin.github.io/",
+  "homepage": "https://yuriyvyatkin.github.io/ra-hw-9.2-crud-posts-frontend/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
