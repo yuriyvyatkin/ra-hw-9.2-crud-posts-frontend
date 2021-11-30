@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-hw-9.2-crud-posts-frontend/static/css/main.2abec9ca.chunk.css",
+    "main.js": "/ra-hw-9.2-crud-posts-frontend/static/js/main.3813ce42.chunk.js",
+    "main.js.map": "/ra-hw-9.2-crud-posts-frontend/static/js/main.3813ce42.chunk.js.map",
+    "runtime-main.js": "/ra-hw-9.2-crud-posts-frontend/static/js/runtime-main.20db9f9c.js",
+    "runtime-main.js.map": "/ra-hw-9.2-crud-posts-frontend/static/js/runtime-main.20db9f9c.js.map",
+    "static/js/2.728fda2b.chunk.js": "/ra-hw-9.2-crud-posts-frontend/static/js/2.728fda2b.chunk.js",
+    "static/js/2.728fda2b.chunk.js.map": "/ra-hw-9.2-crud-posts-frontend/static/js/2.728fda2b.chunk.js.map",
+    "static/js/3.f9776781.chunk.js": "/ra-hw-9.2-crud-posts-frontend/static/js/3.f9776781.chunk.js",
+    "static/js/3.f9776781.chunk.js.map": "/ra-hw-9.2-crud-posts-frontend/static/js/3.f9776781.chunk.js.map",
+    "index.html": "/ra-hw-9.2-crud-posts-frontend/index.html",
+    "static/css/main.2abec9ca.chunk.css.map": "/ra-hw-9.2-crud-posts-frontend/static/css/main.2abec9ca.chunk.css.map",
+    "static/js/2.728fda2b.chunk.js.LICENSE.txt": "/ra-hw-9.2-crud-posts-frontend/static/js/2.728fda2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20db9f9c.js",
+    "static/js/2.728fda2b.chunk.js",
+    "static/css/main.2abec9ca.chunk.css",
+    "static/js/main.3813ce42.chunk.js"
+  ]
+}
